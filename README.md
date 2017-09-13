@@ -2,5 +2,5 @@
 
 Created a simple bookmark server for Udacity. 
 
-link:
+link details:
 https://mysterious-eyrie-74345.herokuapp.com/
