@@ -1,6 +1,6 @@
 # heroku_project
 
-Created a simple bookmark server for Udacity. 
+Implemented a simple bookmark server for Udacity. 
 
 
 ### Project Description
